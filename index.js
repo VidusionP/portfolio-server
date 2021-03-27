@@ -24,10 +24,10 @@ app.get('/', (req, res) => {
 
 
 var transporter = nodemailer.createTransport({
-    service: 'Gmail',
+    service: 'hotmail',
     auth: {
-      user: "piravinth08@gmail.com",
-      pass: 'giantman1'
+      user: "vidu_08@hotmail.com",
+      pass: 'Jenny1994'
     }
   });
 
